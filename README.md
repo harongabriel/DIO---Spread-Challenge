@@ -1,1 +1,1 @@
-# DIO Spread-Challenge
+# DIO Spread - GitHub Challenge
