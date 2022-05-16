@@ -2,12 +2,12 @@
 
 ## Welcome,
 
-### This repository contains my learning process of the Spread FullStack Bootcamp.
+### This repository contains my learning process through the Spread FullStack Bootcamp.
 
 ### Here we can find:
-#### - **Exercises**
-#### - **Insights**
-#### - **Projects**
+- **Exercises**
+- **Projects**
+- **Insights**
 
 ### All the content was made by me with help and mentoring from the DIO teachers and colleagues.
 ### If convinient, feel free to contact me.
