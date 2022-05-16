@@ -1,6 +1,6 @@
-#**DIO Spread - GitHub Challenge**
+# **DIO Spread - GitHub Challenge**
 
-##Welcome,
+## Welcome,
 
 This repository contains the learning process of the Spread FullStack Bootcamp.
 
