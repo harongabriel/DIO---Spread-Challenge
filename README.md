@@ -6,8 +6,8 @@
 
 ### Here we can find:
 - **Exercises**
-- **Insights**
 - **Projects**
+- **Insights**
 
 ### All the content was made by me with help and mentoring from the DIO teachers and colleagues.
 ### If convinient, feel free to contact me.
